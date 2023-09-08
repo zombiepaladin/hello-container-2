@@ -5,5 +5,12 @@
         "version": "latest",
         "moby": true
     }
-  }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }  
 }
