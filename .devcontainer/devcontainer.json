@@ -3,8 +3,7 @@
   "features": {
     "docker-in-docker" : {
       "version": "latest",
-      "moby": true,
-      "dockerDashComposeVersion": "v1"
+      "moby": true
     }
   }
 }
